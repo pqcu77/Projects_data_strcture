@@ -1,0 +1,6 @@
+photo_test/color-block.png
+photo_test/color-block.ppm
+photo_test/lena-128-gray.png
+photo_test/lena-128-gray.ppm
+photo_test/lena-512-gray.png
+photo_test/lena-512-gray.ppm
